@@ -1,5 +1,5 @@
 {
-    "name": "lake/login-captcha",
+    "name": "tyrantg/dcat-login-captcha",
     "alias": "登录验证码",
     "description": "Dcat-admin login captcha extension. / Dcat-admin 登录验证码。",
     "type": "library",
